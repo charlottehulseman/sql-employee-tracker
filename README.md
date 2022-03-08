@@ -2,7 +2,7 @@
 
 ## **Project Description**
 This SQL Employee Tracker is used to simply keep and make changes to a database of departments, roles and employees directly from the termainal via MySQL databases.
-[Link to demo here.] (https://www.youtube.com/watch?v=0qsmgjvPye8)
+[Link to demo here.](https://www.youtube.com/watch?v=0qsmgjvPye8)
 
 ## **Installation Guide**
 You need to have Node.js and MySQL installed in order to use this app.
